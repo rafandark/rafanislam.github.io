@@ -1,0 +1,186 @@
+html{
+	font-size: 10px;
+}
+body{
+	background: #000000;
+	width: 100%;
+	height: 100vh;
+}
+.navbar-brand  {
+	color: #ffffff;
+	text-decoration: none;
+	font-family: 'Pacifico', cursive;
+	font-size: 3rem;
+}
+.navbar-nav{
+	margin-left: 70rem;
+}
+.nav-item a{
+	color: white;
+	text-decoration: none;
+	font-family: 'Signika Negative', sans-serif;
+	
+}
+
+.navbar{
+	padding-top: 3rem;
+     
+}
+
+.nav-item{
+	padding-right: 2.7rem;
+}
+
+.nav-link{
+	font-size: 1.7rem;
+}
+/* .header-2{ 
+	justify-content: center;
+	text-align: center;
+	
+} */
+
+.header-2 h1,h2{font-size: 4rem;
+	padding-top: 4rem;
+} 
+
+.header-2 h2{
+	color: #43cea2;
+	font-size: 3rem;
+}
+.header-2 h1{color:#434343;
+font-size: 5rem; }
+
+.part {
+	color: #43cea2;
+}
+.photo { 
+
+}
+
+/*  hero */
+.hero{
+	margin-top: 10rem;
+}
+
+.hero h1{ color: rgb(255, 255, 255);
+	margin-top: 4rem;
+	font-size: 3rem;
+	font-family: 'Righteous', cursive;
+
+} 
+.hero p {
+	color: white;
+	font-size: 2rem;
+	margin-top: 2rem;
+}
+.part-1{
+	color:#ED462F;
+
+     
+}
+
+
+.hero-2{
+	margin-top: 10rem;
+}
+/* hero-3 */
+
+.hero-3{margin-top: 10rem;
+
+}
+
+.hero-3 h2{
+	color: #B953FF;
+}
+
+.hero-3 h1 ,h3{
+	color: white;
+	padding-top: 3rem;
+}
+.herop-3 h3{
+	color: white;
+	margin-top: 5rem;
+	
+}
+.hero-3 h1{ 
+	font-size: 5rem;
+	
+}
+.herop-4 {
+	margin-top: 10rem ;
+	
+}
+
+.herop-4 h2{
+	color: #53B049;
+	font-size: 3rem
+	
+}
+.herop-4 h1,p{ color: white;
+	margin-top: 5rem;
+ }
+
+.herop-4 h1{color: white;
+	font-size: 4rem;
+}
+.herop-4 P{
+	font-size: 1.7rem
+	
+}
+.hero-4{
+	margin-top: 12rem;
+	margin-bottom: 20rem;
+}
+
+.hero-5{
+	margin-top: 1.5rem;
+}
+.hero-5 h2{
+	font-size: 3.5rem;padding-top: 2rem;
+	color: #FF4E00;
+}
+.hero-5 h1{
+	font-size: 4rem;
+	color: white;
+	padding-top: 1.5rem;
+
+}
+.hero-5 h3{
+	font-size: 2rem;
+	color: white;
+	padding-top: 2rem;
+}
+
+.hero-6{
+	margin-top: 15rem;
+}
+
+.hero-7{
+	margin-top: 15rem;
+}
+
+.hero-7 .fas{
+	color: #FF4E00;
+	padding-left: 55.5rem;}
+	
+.hero-7 h3{ font-size: 2rem;
+	text-align: center;
+}
+
+.hero-7 h4,p{
+	padding-top: 2rem;
+	color: white;
+	text-align: center;
+}
+.hero-7 h4{
+	margin-top: 2.5rem;
+}
+
+span {
+	color:#FF4E00 ;
+}
+
+.hero-7 p{
+	margin-top: -1rem;
+}
